@@ -8,3 +8,4 @@ get '/' do
 	"Hello, whirled"
 end
 
+Main = Sinatra.application
